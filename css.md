@@ -156,7 +156,7 @@ Use shorthand properties where possible (font, margin, etc).
 
 	/* Bad */
 	border-top-style: none;
-	font-family: Ariel;
+	font-family: Arial;
 	font-size: 100%;
 	line-height: 1.6;
 	padding-bottom: 2em;
@@ -166,7 +166,7 @@ Use shorthand properties where possible (font, margin, etc).
 	
 	/* Good */
 	border-top: 0;
-	font: 100%/1.6 Ariel;
+	font: 100%/1.6 Arial;
 	padding: 0 1em 2em;
 	
 ### 0s and units
